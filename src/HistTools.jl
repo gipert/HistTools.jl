@@ -9,6 +9,10 @@ Bayesian Blocks algorithm described in [Scargle 2021](https://doi.org/10.1088/00
 """
 module HistTools
 
+using StatsBase
+
+import StatsBase: reshape
+
 include("core.jl")
 
 end # module
