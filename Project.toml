@@ -1,0 +1,7 @@
+name = "HistTools"
+uuid = "50003cba-c2f8-47f0-9b62-7687653248bb"
+authors = ["Luigi Pertoldi <gipert@pm.me>"]
+version = "0.1.0"
+
+[deps]
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
